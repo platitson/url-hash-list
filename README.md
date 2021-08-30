@@ -20,5 +20,5 @@
 
 ## Solution
 
-* For native JS solution see "native js" folder
+* For native JS solution see repository root
 * For React solution see "react-app" folder
