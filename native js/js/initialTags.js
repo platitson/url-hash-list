@@ -1,0 +1,1 @@
+export const initialTags = ['red', 'blue', 'purple'];
